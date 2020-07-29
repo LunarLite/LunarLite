@@ -4,11 +4,11 @@ I'm just a spare-time programmer, trying to have fun.
 Commonly program in Python, JS, C and some C#.
 
 Primarily enjoy:
-- Messing with game theory
-- Getting a headache from heuristics
-- Snoozing my way through another discord bot
+- Messing with *game theory*
+- Getting a headache from *heuristics*
+- Snoozing my way through *discord bots*
 
-Still trying to get a proper grasp of Cython, networking and procedural generation.\
+Still trying to get a proper grasp on Cython, networking and procedural generation.\
   \
   \
 ![LunarLite's github stats](https://github-readme-stats.vercel.app/api?username=LunarLite&show_icons=true&count_private=true&theme=tokyonight)
