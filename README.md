@@ -13,7 +13,7 @@ Still trying to get a proper grasp of Cython, networking and procedural generati
   \
 ![LunarLite's github stats](https://github-readme-stats.vercel.app/api?username=LunarLite&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarLite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarLite&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **LunarLite/LunarLite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
