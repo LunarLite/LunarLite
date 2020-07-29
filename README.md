@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![LunarLite's github stats](https://github-readme-stats.vercel.app/api?username=LunarLite&show_icons=true&theme=radical)
 <!--
 **LunarLite/LunarLite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
