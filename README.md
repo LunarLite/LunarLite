@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm just a spare-time programmer, trying to have fun.
+Commonly program in Python, JS, C and some C#.
+
+Primarily enjoy:
+- Messing with game theory
+- Getting a headache from heuristics
+- Snoozing my way through another discord bot
+
 ![LunarLite's github stats](https://github-readme-stats.vercel.app/api?username=LunarLite&show_icons=true&theme=radical)
 <!--
 **LunarLite/LunarLite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
