@@ -11,7 +11,7 @@ Primarily enjoy:
 Still trying to get a proper grasp of Cython, networking and procedural generation.\
   \
   \
-![LunarLite's github stats](https://github-readme-stats.vercel.app/api?username=LunarLite&show_icons=true&count_private=true&theme=cobalt)
+![LunarLite's github stats](https://github-readme-stats.vercel.app/api?username=LunarLite&show_icons=true&count_private=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LunarLite&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
