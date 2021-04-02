@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm just a spare-time programmer, trying to have fun.
-Commonly program in Python, JS, C and some C#.
+Commonly program in Python, JS, C and C#.
 
 Primarily enjoy:
 - Messing with ***game theory***
