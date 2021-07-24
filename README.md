@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 I'm just a spare-time programmer, trying to have fun.
-Commonly program in Python, JS, C and C#.
+Commonly program in Python, JS, C# and C.
 
 Primarily enjoy:
-- Messing with ***game theory***
+- Messing with ***game theory*** and PGC
 - Getting a headache from ***heuristics***
 - Snoozing my way through ***discord bots***
 
-Still trying to get a proper grasp on Cython, networking and procedural generation.\
+Still trying to get a proper grasp on Cython and networking.\
   \
   \
 ![LunarLite's github stats](https://github-readme-stats.vercel.app/api?username=LunarLite&show_icons=true&count_private=true&theme=tokyonight)
