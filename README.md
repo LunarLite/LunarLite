@@ -4,7 +4,7 @@ I'm just a spare-time programmer, trying to have fun.
 Commonly program in Python, JS, C# and C.
 
 Primarily enjoy:
-- Messing with ***game theory*** and PGC
+- Messing with ***game theory*** and PCG
 - Getting a headache from ***heuristics***
 - Snoozing my way through ***discord bots***
 
